@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Farve": "Gul",
+        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Punkts%202%20-%20Gul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.258797645568848,
+          55.57372303495426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Farve": "Blå",
+        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Punkt%203%20Bl%C3%A5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290082931518555,
+          55.57640389340443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Farve": "Grøn",
+        "url": "https://raw.githubusercontent.com/AAmosen/infokort/master/Kongsg%C3%A5rden%20Punkt%204%20Gr%C3%B8n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25526249408722,
+          55.574693502587216
+        ]
+      }
+    }
+  ]
+}
